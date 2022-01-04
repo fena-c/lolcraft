@@ -10,13 +10,13 @@ body {
 
 header {
 	padding: 8px;
-	background-color: #601e9e;
+	background-color: #54287f;
 	color: white:
 }
 
 #título {
-	background-color: #6e22b4;
-	border: 4px #521987 Ridge;
+	background-color: #5f2d8f;
+	border: 4px #4a236f Ridge;
 	border-radius: 2px;
 	width: 50%;
 	padding: 8px;
@@ -36,8 +36,8 @@ p {
 
 
 .container {
-	background-color: #601e9e;
-	border: 4px #521987 Ridge;
+	background-color: #54287f;
+	border: 4px #4a236f Ridge;
 	margin: 10px auto;
 	width: 800px;
 	height: 800px;
@@ -45,10 +45,10 @@ p {
 }
 
 .contenido {
-	background-color: #601e9e;
+	background-color: #54287f;
 	height: 680px;
 	width:414px;
-	border: 6px #521987 Ridge;
+	border: 6px #4a236f outset;
 	overflow:scroll;
 	float:center;
 	padding: 0px 5px 0 5px;
@@ -56,9 +56,9 @@ p {
 }
 
 .tabla {
-	background-color: #601e9e;
+	background-color: #54287f;
 	margin: 20px 0 0 0;
-	border:6px #521987 outset;
+	border:6px #4a236f outset;
 	height: 600px;
 	width: 160px;
 	padding: 5px;
@@ -85,23 +85,23 @@ a:active {color: red; text-decoration: none}
 }
 
 * {
-	border-color: #521987;
+	border-color: #4a236f;
 
 }
 
 .headerfancy {
-	background-color: #6e22b4;
+	background-color: #5f2d8f;
 	text-align: center;
 	margin: 10px 10px;
 	text-shadow: 2px 2px 3px blue;
-	border: 4px #521987 Ridge;
+	border: 4px #4a236f Ridge;
 	border-radius: 2px;
 	padding: 5px;
 }
 
 .shadow:hover {
 	box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-	background-color: #7c26cb;
+	background-color: #6a329f;
 }
 
 article {
@@ -109,8 +109,8 @@ article {
 	padding:10px 10px;
 	margin: 5px 0 0 0;
 	text-align:justify;
-	background-color: #7c26cb;
-	border: 2px #521987 solid;
+	background-color: #6a329f;
+	border: 2px #4a236f solid;
 }
 
 .date {
@@ -140,3 +140,13 @@ article {
 
 }
 
+
+
+/*
+
+#6a329f background del article
+#4a236f bordes
+#5f2d8f header fancy
+
+#54287f fondo tablas
+*/
