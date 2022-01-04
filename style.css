@@ -1,0 +1,141 @@
+body {
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	color: #f3e9fc;
+	/*background-color: #177370*/
+	background-image: url('imagen/Logo_Lolcraft.jpg');
+	background-size: cover;
+	background-repeat: repeat-y;
+}
+
+header {
+	padding: 8px;
+	background-color: #601e9e;
+	color: white:
+}
+
+#título {
+	background-color: #6e22b4;
+	border: 4px #521987 Ridge;
+	border-radius: 2px;
+	width: 50%;
+	padding: 8px;
+	margin: 20px auto;
+	text-align: center;
+	text-shadow: 2px 2px 3px blue;
+	font-family: "Pushster";
+}
+
+#título:hover{
+	color:red;
+}
+
+p {
+}
+
+
+
+.container {
+	background-color: #601e9e;
+	border: 4px #521987 Ridge;
+	margin: 10px auto;
+	width: 800px;
+	height: 800px;
+	padding: 5px;
+}
+
+.contenido {
+	background-color: #601e9e;
+	height: 680px;
+	width:414px;
+	border: 6px #521987 Ridge;
+	overflow:scroll;
+	float:center;
+	padding: 0px 5px 0 5px;
+	overflow-x: hidden;
+}
+
+.tabla {
+	background-color: #601e9e;
+	margin: 20px 0 0 0;
+	border:6px #521987 outset;
+	height: 600px;
+	width: 160px;
+	padding: 5px;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float:right;
+}
+
+
+a:link {color: #dbbff6; text-decoration: none}
+a:visited {color: #dbbff6; text-decoration: none}
+a:hover {color: red; text-decoration: none}
+a:active {color: red; text-decoration: none}
+
+
+.float {
+	position:absolute;
+	margin:10px;
+}
+
+* {
+	border-color: #521987;
+
+}
+
+.headerfancy {
+	background-color: #6e22b4;
+	text-align: center;
+	margin: 10px 10px;
+	text-shadow: 2px 2px 3px blue;
+	border: 4px #521987 Ridge;
+	border-radius: 2px;
+	padding: 5px;
+}
+
+.shadow:hover {
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+	background-color: #7c26cb;
+}
+
+article {
+	padding:10px 10px;
+	margin: 5px 0 0 0;
+	text-align:justify;
+	background-color: #7c26cb;
+	border: 2px #521987 solid;
+}
+
+.date {
+	text-align: right;
+
+}
+
+#radio {
+	margin: 10px 0 0 0;
+}
+
+
+#pet {
+	width:150px;
+}
+
+#botones {
+	width:88px;
+	margin:20px auto;
+}
+
+#am {
+	margin: 300px 0 0 5px;
+}
+
+.class {
+
+}
+
